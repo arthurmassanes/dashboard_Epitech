@@ -1,3 +1,6 @@
+# Dashboard Project
+Frontend and backend customizable dashboard application
+Made in 2021 at Epitech with Maxence Parent @MaxouP
 
 
 # DashboardAPI
